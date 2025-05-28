@@ -1,4 +1,4 @@
-# MCP Model Context Protocol Demo
+# MCP Model Context Protocol
 
 This script demonstrates the use of a Model Context Protocol (MCP) setup using a Groq-hosted LLM and a custom MCP client/agent architecture.
 
